@@ -25,7 +25,7 @@ There are several game modes available:
 - Hardcore 2 Player
 
 ## Controls
-- **Arrow keys**: Move the ship.
+- **Arrow keys ← ↑ → ↓**: Move the ship.
 - **Spacebar**: Fire.
 - **G**: Teleport randomly and gain temporary immunity.
 - **P**: Pause the game.
