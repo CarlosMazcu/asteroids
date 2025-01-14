@@ -1,5 +1,8 @@
 # Asteroids Game
 
+## About
+This is a recreation of the original *Asteroids* game by Atari, released in 1979. It captures the essence of the classic arcade game while adding some modern features for account management and multiplayer modes.
+
 ## How to Run
 Simply execute `Asteroids.exe` to start the game.
 
