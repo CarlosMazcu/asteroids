@@ -24,5 +24,13 @@ There are several game modes available:
 - Hardcore 1 Player
 - Hardcore 2 Player
 
+## Controls
+- **Arrow keys**: Move the ship.
+- **Spacebar**: Fire.
+- **G**: Teleport randomly and gain temporary immunity.
+- **P**: Pause the game.
+- **Escape**: Close the game window immediately.
+- **Bonus Life**: Earn an extra life when you reach 10,000 points.
+
 ## LogIn Screen
 On the LogIn screen, if you press the `Shift` key, the system will auto-complete with an existing user who has enough credits.
